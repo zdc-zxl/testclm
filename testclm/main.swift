@@ -9,10 +9,3 @@
 import Foundation
 
 print("Hello, World!")
-
-//print("Hello, World!")
-var a:Int,b:Int,c:Int
-a=100
-b=200
-c=a+b
-print("\(c)") 
